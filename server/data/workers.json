@@ -1,0 +1,326 @@
+[
+  {
+    "id": "10dc41f9-5506-425f-b41c-c5d9dcfd2ad4",
+    "name": "Sanjay Kumar",
+    "phone": "9142562943",
+    "category": "Construction Worker",
+    "area": "North",
+    "expectedSalary": 500,
+    "createdAt": "2025-10-22T16:14:51.114Z"
+  },
+  {
+    "id": "c685b298-c2bf-4a5b-aa61-9a8af9c2f6ff",
+    "name": "Sanjay Sharma",
+    "phone": "9727459087",
+    "category": "Electrician",
+    "area": "South",
+    "expectedSalary": 550,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "96bd25c6-fcd2-498b-93a1-25c0dba90624",
+    "name": "Mahesh Singh",
+    "phone": "7316810835",
+    "category": "Plumber",
+    "area": "East",
+    "expectedSalary": 600,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "dd2e6bce-cf36-4a05-a3d1-73a0bbf630b2",
+    "name": "Rahul Singh",
+    "phone": "8252376259",
+    "category": "Mason",
+    "area": "West",
+    "expectedSalary": 650,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "95d387dc-3647-4374-9670-2f56a462b621",
+    "name": "Amit Naidu",
+    "phone": "8072823413",
+    "category": "Painter",
+    "area": "Downtown",
+    "expectedSalary": 700,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "27c35a4d-0fce-44bc-a34f-619418ea8755",
+    "name": "Rahul Reddy",
+    "phone": "7706537316",
+    "category": "Carpenter",
+    "area": "North",
+    "expectedSalary": 750,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "cfcdecbd-2fe8-4001-87ea-db33a9a044aa",
+    "name": "Rahul Sharma",
+    "phone": "8304463707",
+    "category": "Welder",
+    "area": "South",
+    "expectedSalary": 800,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "43909a7e-7cdf-4038-a58a-0d0058d4d796",
+    "name": "Anil Singh",
+    "phone": "7117034222",
+    "category": "Tile Setter",
+    "area": "East",
+    "expectedSalary": 850,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "409e606e-cf0c-428e-b2a6-45a9eb7ed489",
+    "name": "Amit Kumar",
+    "phone": "7023803952",
+    "category": "Roofing",
+    "area": "West",
+    "expectedSalary": 900,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "838b4a3a-3108-46d7-9f50-7ed3e7ef5285",
+    "name": "Amit Reddy",
+    "phone": "8713182605",
+    "category": "Construction Worker",
+    "area": "Downtown",
+    "expectedSalary": 950,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "7ce9bc90-2e5b-4b87-bb9b-60e43b56c85b",
+    "name": "Anil Naidu",
+    "phone": "6821018481",
+    "category": "Electrician",
+    "area": "North",
+    "expectedSalary": 500,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "8747b460-4b42-48d2-abec-62aefaea5336",
+    "name": "Ravi Reddy",
+    "phone": "6183371184",
+    "category": "Plumber",
+    "area": "South",
+    "expectedSalary": 550,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "ccdd09cf-5695-46db-bb30-52b5622b855c",
+    "name": "Suresh Gowda",
+    "phone": "6453234668",
+    "category": "Mason",
+    "area": "East",
+    "expectedSalary": 600,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "0658cbb9-9533-4fd1-94bf-8162b4d217b7",
+    "name": "Ravi Gowda",
+    "phone": "8128665145",
+    "category": "Painter",
+    "area": "West",
+    "expectedSalary": 650,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "cbb59c1d-05dd-4ac6-9633-7fe2d8980bb7",
+    "name": "Deepak Singh",
+    "phone": "8018205091",
+    "category": "Carpenter",
+    "area": "Downtown",
+    "expectedSalary": 700,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "649c1d4b-85b3-4466-92c9-c9cda464ade9",
+    "name": "Vijay Naidu",
+    "phone": "6481970185",
+    "category": "Welder",
+    "area": "North",
+    "expectedSalary": 750,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "62110397-785c-47a5-9227-591b58577be7",
+    "name": "Ravi Kumar",
+    "phone": "9950555269",
+    "category": "Tile Setter",
+    "area": "South",
+    "expectedSalary": 800,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "68ff230e-911a-4851-a3cb-10f46112a4a2",
+    "name": "Anil Sharma",
+    "phone": "9024530244",
+    "category": "Roofing",
+    "area": "East",
+    "expectedSalary": 850,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "52f74913-070f-4f2d-b477-83090534fa56",
+    "name": "Ravi Gowda",
+    "phone": "6534700836",
+    "category": "Construction Worker",
+    "area": "West",
+    "expectedSalary": 900,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "3710c4ef-1cc3-4dd4-87de-58027e4978ec",
+    "name": "Ravi Patel",
+    "phone": "8194635808",
+    "category": "Electrician",
+    "area": "Downtown",
+    "expectedSalary": 950,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "b6bdd49a-1ffe-40bf-9afb-5b2b6a6f5828",
+    "name": "Mahesh Singh",
+    "phone": "9098930268",
+    "category": "Plumber",
+    "area": "North",
+    "expectedSalary": 500,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "8433e933-d9fb-4410-86fe-eb41b17d9be7",
+    "name": "Amit Yadav",
+    "phone": "9116979097",
+    "category": "Mason",
+    "area": "South",
+    "expectedSalary": 550,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "e1b68129-8da8-44ed-8a4b-b372a11bc17a",
+    "name": "Sanjay Gowda",
+    "phone": "7015860781",
+    "category": "Painter",
+    "area": "East",
+    "expectedSalary": 600,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "56e4a734-eb99-4680-9958-728809d34d93",
+    "name": "Kiran Yadav",
+    "phone": "6221352201",
+    "category": "Carpenter",
+    "area": "West",
+    "expectedSalary": 650,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "572686bd-e85a-4905-b3a1-ef5753d249db",
+    "name": "Amit Patel",
+    "phone": "7629287648",
+    "category": "Welder",
+    "area": "Downtown",
+    "expectedSalary": 700,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "3ac1583a-5801-4073-b127-3fce1323a640",
+    "name": "Kiran Yadav",
+    "phone": "6772427572",
+    "category": "Tile Setter",
+    "area": "North",
+    "expectedSalary": 750,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "8aff0341-0441-4187-9172-88363f9f4e4e",
+    "name": "Ravi Patel",
+    "phone": "9321424345",
+    "category": "Roofing",
+    "area": "South",
+    "expectedSalary": 800,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "8896c63e-05d6-4e4d-a92a-2bb666ac90a3",
+    "name": "Kiran Kumar",
+    "phone": "9529103462",
+    "category": "Construction Worker",
+    "area": "East",
+    "expectedSalary": 850,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "e1ced365-6669-460d-b9c0-757b8263db6e",
+    "name": "Rahul Singh",
+    "phone": "8112998196",
+    "category": "Electrician",
+    "area": "West",
+    "expectedSalary": 900,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "50eb226d-4267-4e60-8773-cfac0e6279c3",
+    "name": "Kiran Patel",
+    "phone": "9170027351",
+    "category": "Plumber",
+    "area": "Downtown",
+    "expectedSalary": 950,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "28c7d8b3-a38a-4572-8afd-31d901fd936f",
+    "name": "Deepak Patel",
+    "phone": "6545071908",
+    "category": "Mason",
+    "area": "North",
+    "expectedSalary": 500,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "1b3e85a8-786e-48c6-97ed-ecad58ee75f7",
+    "name": "Kiran Patel",
+    "phone": "8087968581",
+    "category": "Painter",
+    "area": "South",
+    "expectedSalary": 550,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "a060a434-a83b-4304-b841-0ba1d7125176",
+    "name": "Amit Yadav",
+    "phone": "9575865985",
+    "category": "Carpenter",
+    "area": "East",
+    "expectedSalary": 600,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "572af45b-5592-4e94-ab0d-b47d70672b97",
+    "name": "Ravi Naidu",
+    "phone": "9578665749",
+    "category": "Welder",
+    "area": "West",
+    "expectedSalary": 650,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "bd0a1f96-f33e-466d-8632-da7164c0ae63",
+    "name": "Ravi Naidu",
+    "phone": "7225144239",
+    "category": "Tile Setter",
+    "area": "Downtown",
+    "expectedSalary": 700,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  },
+  {
+    "id": "e5d85160-250f-4845-a009-582e7d472aad",
+    "name": "Rahul Sharma",
+    "phone": "7235018923",
+    "category": "Roofing",
+    "area": "North",
+    "expectedSalary": 750,
+    "createdAt": "2025-10-22T16:14:51.115Z"
+  }
+]
